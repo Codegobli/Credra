@@ -1,2 +1,2 @@
 # Credra
-Chargeabck-proof crypto payments for privacy-first business
+Chargeback-proof crypto payments for privacy-first business
