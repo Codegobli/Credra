@@ -1,5 +1,20 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: BUSL-1.1
 pragma solidity ^0.8.20;
+
+/**
+ * @title Credra
+ * @dev Privacy-first escrow protocol for trustless crypto payments and dispute resolution.
+ *
+ * Business Source License 1.1 (BUSL-1.1)
+ *
+ * Use Limitation: This contract may not be used in a commercial product or service
+ * without explicit permission from the author.
+ *
+ * Change Date: 2026-01-01 — after which this code will be re-licensed under the MIT License.
+ *
+ * License: https://github.com/Codegobli/Credra/blob/main/LICENSE
+ * Author: Afolabi Samson (https://github.com/Codegobli)
+ */
 
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
