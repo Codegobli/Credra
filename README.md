@@ -1,4 +1,4 @@
-# Credra
+# Credra (WIP)
 
 Credra is a crypto-native payment platform that helps privacy first businesses like VPNs, SaaS, and other digital service providers avoid chargebacks using on-chain escrow and programmable trust.
 
