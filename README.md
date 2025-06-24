@@ -18,7 +18,7 @@ Credra is a crypto-native payment platform that helps privacy first businesses l
 
 ## 🗂️ Structure
 
-- `contracts/` — Solidity smart contracts
+- `Contracts/` — Solidity smart contracts
 - `test/` — Tests (coming soon)
 - `docs/` — Project overview and details
 - `scripts/` — Deploy & utility scripts (optional)
