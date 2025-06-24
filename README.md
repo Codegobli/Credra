@@ -25,4 +25,4 @@ Credra is a crypto-native payment platform that helps privacy first businesses l
 
 ## 🔖 License
 
-BUSL
+🛡️ License: [BUSL-1.1](./LICENSE.md) – non-commercial use only until Jan 1, 2026
